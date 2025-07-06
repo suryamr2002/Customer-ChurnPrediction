@@ -1,10 +1,7 @@
----
-
 # 📊 Customer Churn Prediction with XGBoost
 
 Predict which customers are likely to churn using historical, consumption, and pricing data — built with XGBoost and explained through feature importance.
 
----
 
 ## ✅ Project Overview
 
